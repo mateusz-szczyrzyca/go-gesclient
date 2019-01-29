@@ -1,7 +1,7 @@
 package client_test
 
 import (
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/satori/go.uuid"

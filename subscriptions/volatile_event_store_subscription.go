@@ -1,7 +1,7 @@
 package subscriptions
 
 import (
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
 )
 
 type VolatileEventStoreSubscription struct {

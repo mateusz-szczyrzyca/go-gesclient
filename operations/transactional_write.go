@@ -3,9 +3,9 @@ package operations
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/messages"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/messages"
+	"github.com/mateusz-szczyrzyca/go-gesclient/tasks"
 )
 
 type TransactionalWrite struct {

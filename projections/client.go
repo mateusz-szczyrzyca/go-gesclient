@@ -3,8 +3,8 @@ package projections
 import (
 	"encoding/json"
 	"fmt"
-	cli "github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/tasks"
+	cli "github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/tasks"
 	"io/ioutil"
 	"net"
 	"net/http"

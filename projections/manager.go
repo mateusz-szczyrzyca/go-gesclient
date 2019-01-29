@@ -1,8 +1,8 @@
 package projections
 
 import (
-	cli "github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/tasks"
+	cli "github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/tasks"
 	"net"
 	"time"
 )

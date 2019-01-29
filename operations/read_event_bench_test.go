@@ -1,8 +1,8 @@
 package operations_test
 
 import (
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/tasks"
 	"github.com/satori/go.uuid"
 	"testing"
 )

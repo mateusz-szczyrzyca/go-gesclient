@@ -1,8 +1,8 @@
 package operations_test
 
 import (
-	"github.com/jdextraze/go-gesclient"
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
 	"net/url"
 	"time"
 )

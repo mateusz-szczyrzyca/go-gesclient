@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"github.com/jdextraze/go-gesclient"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/flags"
+	"github.com/mateusz-szczyrzyca/go-gesclient"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/flags"
 	"log"
 )
 

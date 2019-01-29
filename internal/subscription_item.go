@@ -2,7 +2,7 @@ package internal
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/subscriptions"
+	"github.com/mateusz-szczyrzyca/go-gesclient/subscriptions"
 	"github.com/satori/go.uuid"
 	"time"
 )

@@ -2,8 +2,8 @@ package subscriptions
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/tasks"
 	"time"
 )
 

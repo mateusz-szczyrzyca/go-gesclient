@@ -2,8 +2,8 @@ package gesclient
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/internal"
+	"github.com/mateusz-szczyrzyca/go-gesclient/client"
+	"github.com/mateusz-szczyrzyca/go-gesclient/internal"
 	"net"
 	"net/url"
 )
